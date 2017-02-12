@@ -68,7 +68,7 @@ header-img: "img/2012-08-26-thor-head.jpg"
 <br>
 <h3>References:</h3>
 <p>
-  Dyce, K.M., Sack, W.O., Wensing, C.J.G., 2002. Textbook of Veterinary Anatomy. 3rd ed. Philadelphia, WB Saunders.</br>
+  Dyce, K.M., Sack, W.O., Wensing, C.J.G., 2002. Textbook of Veterinary Anatomy. 3rd ed. Philadelphia, WB Saunders.<br>
   Pasquini, C., Spurgeon, T., Pasquini, S., 2007. Anatomy of Domestic Animals. 11th ed. Pilot Point, Tx: Sudz Publishing.
 </p>
 
