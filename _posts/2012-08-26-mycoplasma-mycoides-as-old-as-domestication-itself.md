@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Mycoplasma mycoides; as old as domestication itself"
-subtitle:   "Did this _Mycoplasma_ strain form 10,000 years ago?"
+subtitle:   "Did this Mycoplasma strain form 10,000 years ago?"
 date:       2012-08-26 12:00:00
 author:     "Stephen"
 header-img: "img/2012-08-26-head.png"
