@@ -7,6 +7,12 @@ author:     "Stephen"
 header-img: "img/2013-12-26-head.png"
 ---
 
+<style media="screen" type="text/css">
+.intro-header .site-heading, .intro-header .post-heading, .intro-header .page-heading {
+    color: #333 !important;
+}
+</style>
+
 <p>The National Academy of Sciences released a report on the ‘Workforce Needs in Veterinary Medicine’ earlier this year. The committee found little evidence of widespread workforce shortages at the present time, however, they did find a number of advanced training shortages. The positions offered in certain sectors provided salaries that were too low paying to remunerate the cost of education; this included positions in One Health, epidemiology, environmental science and food security. Some of these positions remain unfilled and could as a result be lost to veterinary medicine graduates and be filled by graduates from other professions. As veterinary courses become more applied there is a decreased emphasis in these areas.</p>
 
 <blockquote>The positions offered in certain sectors provided salaries that were too low paying to remunerate the cost of education</blockquote>

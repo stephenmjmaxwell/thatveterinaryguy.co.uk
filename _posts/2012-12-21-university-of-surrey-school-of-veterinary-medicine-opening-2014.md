@@ -7,6 +7,7 @@ author:     "Stephen"
 header-img: "img/2012-12-21-header.png"
 ---
 
+
 The University of Surrey announced in October that it is planning to create the UK’s 
 eighth veterinary school with a focus on research and an emphasis on the ‘One Health 
 – One Medicine’ principal. This new £45m school is set to open in 2014 but the 

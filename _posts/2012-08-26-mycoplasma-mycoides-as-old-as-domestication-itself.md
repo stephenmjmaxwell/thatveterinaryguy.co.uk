@@ -7,6 +7,18 @@ author:     "Stephen"
 header-img: "img/2012-08-26-head.png"
 ---
 
+<style media="screen" type="text/css">
+.intro-header .site-heading, .intro-header .post-heading, .intro-header .page-heading {
+    color: #333 !important;
+}
+.navbar-custom .navbar-brand {
+    color: #333 !important;
+}
+.navbar-custom .nav li a {
+    color: #333 !important;
+}
+</style>
+
 _Mycoplasma_, the smallest prokaryotic cell capable of cell replication, is a 
 frequent annoyance to scientists and laboratory workers from contamination of 
 painstakingly produced cell cultures. Present as natural flora on the mucosal 

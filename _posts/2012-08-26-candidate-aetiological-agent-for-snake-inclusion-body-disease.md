@@ -7,6 +7,18 @@ author:     "Stephen"
 header-img: "img/2012-08-26-header.jpg"
 ---
 
+<style media="screen" type="text/css">
+.intro-header .site-heading, .intro-header .post-heading, .intro-header .page-heading {
+    color: #333 !important;
+}
+.navbar-custom .navbar-brand {
+    color: #333 !important;
+}
+.navbar-custom .nav li a {
+    color: #333 !important;
+}
+</style>
+
 Inclusion body disease has been recognised in a number of countries in captive snakes 
 from the 1980s. It is common progressive, often fatal, infectious disease of captive 
 snakes, with those of the family Boidae (boas and pythons) being the most susceptible. 

@@ -7,6 +7,18 @@ author:     "Stephen"
 header-img: "img/2012-08-26-head.jpg"
 ---
 
+<style media="screen" type="text/css">
+.intro-header .site-heading, .intro-header .post-heading, .intro-header .page-heading {
+    color: #333 !important;
+}
+.navbar-custom .navbar-brand {
+    color: #333 !important;
+}
+.navbar-custom .nav li a {
+    color: #333 !important;
+}
+</style>
+
 <p>Influenza is derived from the Italian ‘un influenza di freddo’, meaning ‘influence of the cold’. It is an infectious disease of the respiratory system that causes regular seasonal epidemics in a number of mammalian and avian species. Human influenza pandemics occur in 10 to 40-year cycles and have historically affected as much as up to 40% of the population.</p>
 <p>Classically it is characterised by fever, chills, coughing, sore throat, headache and generalised muscle pain. Children may present with gastrointestinal symptoms. Influenza infection usually takes 3 – 7 days for a complete recovery. Many of the clinical signs observed are a result of the bodies immune response producing large quantities of pro-inflammatory cytokines and chemokines which can lead to a ‘cytokine storm’. Fatalities usually occur due to pneumonia as a result of secondary bacterial infections. A third of people infected are asymptomatic.</p>
 
