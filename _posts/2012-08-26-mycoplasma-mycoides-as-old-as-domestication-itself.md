@@ -85,6 +85,6 @@ times may have created these more destructive organisms.
 
 ## References:
 
-A, Fischer et al. (2012) The Origin of the ‘Mycoplasma mycoides Cluster’ Coincides with Domestication of Ruminants. PLoS ONE, 7(4): e36150. <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0036150">doi:10.1371/journal.pone.0036150</a>
+**A, Fischer et al. (2012) The Origin of the ‘Mycoplasma mycoides Cluster’ Coincides with Domestication of Ruminants. PLoS ONE, 7(4): e36150. **<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0036150">doi:10.1371/journal.pone.0036150</a>
 
 

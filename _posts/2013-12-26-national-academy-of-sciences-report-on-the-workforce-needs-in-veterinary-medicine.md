@@ -28,8 +28,8 @@ header-img: "img/2013-12-26-head.png"
 
 <br>
 <h3>References:</h3>
-<p>
+<i>
 National Academy of Sciences. Workforce Needs in Veterinary Medicine. [online]. Available: http://dels.nas.edu/Report/Workforce-Needs-Veterinary-Medicine/13413 [25 December 2012]
-</p>
+</i>
 
 
