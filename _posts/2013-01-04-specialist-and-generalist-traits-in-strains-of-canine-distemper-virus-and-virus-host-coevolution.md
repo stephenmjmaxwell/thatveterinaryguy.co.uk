@@ -76,8 +76,8 @@ the epidemiology of CDV due to changes in density of the host species.
 
 ## References:
 
-**Nikolin VM, Osterrieder K, von Messling V, Hofer H, Anderson D, et al. (2012) Antagonistic Pleiotropy and Fitness 
+_Nikolin VM, Osterrieder K, von Messling V, Hofer H, Anderson D, et al. (2012) Antagonistic Pleiotropy and Fitness 
 Trade-Offs Reveal Specialist and Generalist Traits in Strains of Canine Distemper Virus. PLoS ONE 7(12): e50955. 
-doi:10.1371/journal.pone.0050955**
+doi:10.1371/journal.pone.0050955_
 
 
