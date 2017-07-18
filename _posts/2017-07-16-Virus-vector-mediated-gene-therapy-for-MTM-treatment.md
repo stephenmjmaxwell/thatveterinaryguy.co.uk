@@ -12,9 +12,9 @@ A paper published earlier this year in [Molecular Therapy](http://www.cell.com/m
 <center><img class="img-responsive" src="/img/2017-07-16-body-fx1.jpg" alt=""></center>
 <span class="caption text-muted">Increased dose shown to improve survivability and reduce morbidity in treated dogs. doi:10.1016/j.ymthe.2017.02.004</span>
 
-XLMTM induces diffuse muscular weakness with respiratory and gastric compromise which is generally fatal. In human medicine intensive intervention is required to improve longevity. XLMTM is the most prevalent form of centronucleur myopathy ([CNM](https://en.wikipedia.org/wiki/Centronuclear_myopathy)) in humans.
+XLMTM induces diffuse muscular weakness with respiratory and gastric compromise which is generally fatal. In human medicine intensive intervention is required to improve longevity. 
 
-Neurological assessment, movement, reflex scores and respiratory function were all utilised to quantify the dose dependent response to treatment in the study participants. The data included in this paper show a clear improvement in parameters with each subsequent increase in dose. With intravenous administration a diffuse whole body biodistribution was attained and documented at postmortem. 
+Neurological assessment, movement, reflex scores and respiratory function were all utilised to quantify the dose dependent response to treatment in the study participants. The analysis included in this paper show a clear improvement in parameters with each subsequent increase in dose. With intravenous administration a diffuse whole body biodistribution was attained and documented at postmortem. 
 
 In both mice and dog models gene replacement therapy has been shown to be effective. The next step is translational to clinical trials for human application. 
 
